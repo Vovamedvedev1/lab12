@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1731179225 source:c:\users\Владимир\documents\С++ 2 курс\lab12\main.cpp
+	<iostream>
+	<cmath>
+	"lab12.h"
+
+1731176970 c:\users\Владимир\documents\С++ 2 курс\lab12\lab12.h
+
+1731179093 source:c:\users\Владимир\documents\С++ 2 курс\lab12\lab12.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	"lab12.h"
+
